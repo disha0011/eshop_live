@@ -1,4 +1,7 @@
 {
+   "script":{
+     "start":"nodemon server.js"
+   },
   "dependencies": {
     "bcrypt": "^5.1.0",
     "bcryptjs": "^2.4.3",
@@ -10,7 +13,6 @@
     "mongoos": "^0.0.1-security",
     "mongoose": "^6.8.4",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.20",
-    "start": "nodemon server.js"
+    "nodemon": "^2.0.20"   
   }
 }
